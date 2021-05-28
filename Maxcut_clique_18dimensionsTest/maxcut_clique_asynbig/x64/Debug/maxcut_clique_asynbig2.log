@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig2\main.c(185,16): warning C4101: “status_v”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig2\main.c(330,24): warning C4101: “status_cv”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig2\main.c(451,24): warning C4101: “status_v2”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig2\main.c(572,24): warning C4101: “status_v3”: 未引用的局部变量
+  maxcut_clique_asynbig2.vcxproj -> C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig2\x64\Debug\maxcut_clique_asynbig2.exe

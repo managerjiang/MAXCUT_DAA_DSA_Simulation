@@ -1,0 +1,4 @@
+C:\Users\JX\source\repos\maxcut_clique_asynbig2\x64\Debug\maxcut_clique_asynbig2.exe
+C:\Users\JX\source\repos\maxcut_clique_asynbig2\x64\Debug\maxcut_clique_asynbig2.pdb
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig2\x64\Debug\maxcut_clique_asynbig2.exe
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig2\x64\Debug\maxcut_clique_asynbig2.pdb
