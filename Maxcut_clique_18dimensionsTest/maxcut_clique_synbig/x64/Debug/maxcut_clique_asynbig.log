@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig\main.c(187,17): warning C4101: “request_rv”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig\main.c(188,31): warning C4101: “request_rc”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig\main.c(185,44): warning C4101: “status_rseq”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig\main.c(185,29): warning C4101: “status_seq”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig\main.c(186,17): warning C4101: “request_v”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig\main.c(188,17): warning C4101: “request_c”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig\main.c(185,59): warning C4101: “status_cseq”: 未引用的局部变量
+C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig\main.c(185,74): warning C4101: “status_rcseq”: 未引用的局部变量
+  maxcut_clique_asynbig.vcxproj -> C:\Users\JX\source\repos\Maxcut_clique_18dimensionsTest\maxcut_clique_asynbig\x64\Debug\maxcut_clique_asynbig.exe
