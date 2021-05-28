@@ -1,0 +1,2 @@
+C:\Users\JX\source\repos\maxcut_center\x64\Debug\maxcut_center.exe
+C:\Users\JX\source\repos\maxcut_center\x64\Debug\maxcut_center.pdb
